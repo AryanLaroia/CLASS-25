@@ -1,2 +1,2 @@
-# CLASS-25
-IMAGES AND PARENT CLASS
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
